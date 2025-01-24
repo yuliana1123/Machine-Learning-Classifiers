@@ -1,4 +1,4 @@
-# Machine-Learning-Classifiers
+# Dual-Classifiers for Candidemia Patients: MLP and Naïve Bayes Approach
 
 This project aims to develop and evaluate two classifiers: a Multilayer Perceptron (MLP) and Naïve Bayes. 
 The dataset used contains candidemia patient data, with 77 features and a binary class outcome.
